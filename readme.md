@@ -1,4 +1,4 @@
-👋 Hey, I'm Dev Nijhawan
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00B7FF,100:7C3AED&height=210&section=header&text=DEV%20NIJHAWAN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
