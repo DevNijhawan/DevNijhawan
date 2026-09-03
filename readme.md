@@ -1,16 +1,16 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:7C3AED,100:00B7FF&height=210&section=header&text=DEV%20NIJHAWAN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,45:00B7FF,100:7C3AED&height=220&section=header&text=DEV%20NIJHAWAN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2500&pause=700&color=00F5A0&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%7C+AI+Builder+%7C+Problem+Solver;Building+real-world+projects+with+code+%E2%9A%A1;Turning+ideas+into+working+products+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=850&color=00F5A0&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Python+Developer+%7C+Builder;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Generative+AI;Building+intelligent+systems+that+solve+real+problems+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DevNijhawan">
-    <img src="https://komarev.com/ghpvc/?username=DevNijhawan&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=DevNijhawan&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://github.com/DevNijhawan?tab=followers">
     <img src="https://img.shields.io/github/followers/DevNijhawan?label=FOLLOWERS&style=for-the-badge&color=00B7FF" alt="Followers" />
@@ -22,74 +22,92 @@
 
 <p align="center">
   <a href="https://devnijhawan.github.io/Dev-Nijhawan/">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C896?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C896?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/dev-nijhawan-22840528b/">
-    <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:devnijhawan@example.com">
-    <img src="https://img.shields.io/badge/✉️%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+    <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-🧑‍💻 WHO AM I?
-
-╭──────────────────────────────────────────────────────────╮
-│  👋 Hey! I'm Dev Nijhawan                               │
-│                                                          │
-│  💻 Developer        → Full-Stack + AI                  │
-│  🚀 Builder          → Projects > Just Ideas            │
-│  🧠 Learner          → Always Exploring                 │
-│  🏆 Hackathon        → Build • Break • Fix • Ship       │
-│  ⚡ Current mindset   → Learn → Build → Improve          │
-╰──────────────────────────────────────────────────────────╯
-
-I enjoy building useful software, experimenting with modern technologies, and turning ideas into real applications.
-
-My interests sit at the intersection of:
-
-🌐 Web Development + 🤖 AI + ⚡ Backend + 🔐 Security
-
-🛠️ MY TECH STACK
-
-💻 Languages
+🧠 WHO AM I?
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" height="55" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=7C3AED&center=true&vCenter=true&width=760&lines=I+build+systems+that+can+see%2C+understand%2C+and+respond.;I+turn+data+and+models+into+useful+products.;Curious+mind.+Builder+at+heart.+Always+learning." />
+</p>
+
+I'm Dev Nijhawan, an AI/ML Engineer focused on learning and building intelligent applications.
+
+My main interests are Machine Learning, Computer Vision, Generative AI, Python, and AI-powered software. I enjoy taking an idea, understanding the problem behind it, experimenting with technology, and turning the result into something people can actually use.
+
+I’m not here just to train models.
+
+My goal is to understand the problem → build the intelligence → connect it to a product → make it useful.
+
+                   ┌─────────────────────────┐
+                   │       DEV NIJHAWAN      │
+                   └────────────┬────────────┘
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          ↓                     ↓                     ↓
+     🤖 AI / ML           👁️ Computer Vision      🐍 Python
+          │                     │                     │
+          └─────────────────────┼─────────────────────┘
+                                ↓
+                         🚀 AI Applications
+                                ↓
+                     Real Problems → Real Builds
+
+🤖 MY AI / ML TOOLBOX
+
+🧠 Core AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="58" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-⚛️ Frameworks & Development
+🧰 Languages & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" height="55" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" height="52" />
 </p>
 
-🗄️ Databases & Platforms
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,git,github,vscode,linux" height="55" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-🤖 AI / APIs / Security
+👁️ Vision / Document Intelligence
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-222222?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Document%20AI-00B7FF?style=for-the-badge&logoColor=white" />
+</p>
+
+✨ Generative AI & APIs
+
+<p align="center">
   <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-00B7FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-🚀 WHAT I'M BUILDING
+🛠️ Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="52" />
+</p>
+
+🚀 AI PROJECTS I'M BUILDING
 
 <table>
 <tr>
@@ -97,17 +115,23 @@ My interests sit at the intersection of:
 
 🪪 VeritasID
 
-Identity & Document Screening
+AI / Document Screening Prototype
 
-A security-focused prototype that combines:
+A security-focused prototype that combines document extraction and multiple screening signals.
 
-🔍 OCR
-🧾 Consistency checks
-🔐 QR validation
-🖼️ Image forensics
-⚠️ Risk scoring
+OCR
+ ↓
+Field Extraction
+ ↓
+Consistency Checks
+ ↓
+QR Validation
+ ↓
+Image / Forensics Signals
+ ↓
+Risk Score
 
-Stack: Python • FastAPI • OCR • OpenCV
+Stack: Python • FastAPI • Tesseract • OpenCV
 
 </td>
 
@@ -115,48 +139,50 @@ Stack: Python • FastAPI • OCR • OpenCV
 
 🌦️ WeatherGPT
 
-AI Weather Assistant
+AI-Powered Weather Assistant
 
-A full-stack weather experience combining live weather data with conversational AI.
+A conversational weather application that combines live weather information with an AI layer.
 
-🌡️ Weather data
-💬 AI chat
-📊 Forecasts
-🗄️ PostgreSQL
+Weather Data
+     ↓
+Backend
+     ↓
+AI Context
+     ↓
+Conversational Answer
 
-Stack: Next.js • FastAPI • Claude • PostgreSQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-💻 Developer Portfolio
-
-A terminal-inspired developer portfolio featuring a cyber-style UI and interactive effects.
-
-Stack: HTML • CSS • JavaScript
-
-🌐 <a href="https://devnijhawan.github.io/Dev-Nijhawan/">Live Portfolio</a>
-
-</td>
-
-<td width="50%">
-
-🐍 Python Basics
-
-A collection of Python exercises covering fundamental programming concepts while learning and practicing the language.
-
-Stack: Python
-
-🔗 <a href="https://github.com/DevNijhawan/python-basics">View Repository</a>
+Stack: Python • FastAPI • Next.js • Claude • PostgreSQL
 
 </td>
 </tr>
 </table>
 
-📊 GITHUB ANALYTICS
+🧪 HOW I LIKE TO BUILD
+
+              💡 Problem
+                  │
+                  ▼
+             🔎 Understand
+                  │
+                  ▼
+             📊 Collect Data
+                  │
+                  ▼
+             🧠 Experiment
+                  │
+                  ▼
+             🧪 Test Models
+                  │
+                  ▼
+             🔗 Build Pipeline
+                  │
+                  ▼
+             🚀 Ship the App
+                  │
+                  ▼
+             ♻️ Improve
+
+📊 GITHUB ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevNijhawan&show_icons=true&hide_border=true&title_color=00F5A0&icon_color=7C3AED&text_color=FFFFFF&bg_color=0D1117&rank_icon=github" height="180" />
@@ -172,60 +198,41 @@ Stack: Python
 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevNijhawan/DevNijhawan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/DevNijhawan/DevNijhawan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
 
-ℹ️ The snake requires a GitHub Actions workflow in the profile repository to generate the SVG.
+⚙️ The snake image needs a GitHub Actions workflow in the DevNijhawan profile repository.
 
-🎯 CURRENTLY FOCUSING ON
+🎯 CURRENTLY LEARNING & EXPLORING
 
-🤖  AI-powered applications
-🌐  Full-stack development
-⚡  FastAPI & backend systems
-🔐  Security & identity technology
-🎨  Modern UI / UX
-☁️  Deployment & cloud tooling
-🏆  Hackathons & real-world builds
+🤖 Machine Learning
+🧠 Deep Learning
+👁️ Computer Vision
+✨ Generative AI
+📄 Document Intelligence
+⚡ AI APIs & Inference
+🧪 Model Experimentation
+🚀 AI Product Development
 
-🏆 MY BUILD PHILOSOPHY
-
-<p align="center">
-
-IDEA 💡
-↓
-BUILD 🛠️
-↓
-TEST 🧪
-↓
-BREAK 💥
-↓
-FIX 🔧
-↓
-SHIP 🚀
-↓
-REPEAT ♻️
-
-</p>
-
-🌟 GOALS
+🏆 2026 MISSION
 
 🎯 Goal
 
-🚦 Status
+Status
 
-Build production-ready projects
-
-🔄 In Progress
-
-Explore AI applications
+Build better ML projects
 
 🔄 In Progress
 
-Improve full-stack skills
+Build AI-powered applications
 
 🔄 In Progress
 
-Build security-focused systems
+Improve Computer Vision skills
+
+🔄 In Progress
+
+Explore Generative AI
 
 🔄 In Progress
 
@@ -233,29 +240,30 @@ Participate in hackathons
 
 🔄 In Progress
 
-Keep learning & shipping
+Turn projects into real products
 
-♾️ Always
+🔥 Active
 
-💬 A LITTLE MORE ABOUT ME
+🧩 MY DEVELOPER DNA
 
-const dev = {
-  name: "Dev Nijhawan",
+dev = {
+    "name": "Dev Nijhawan",
+    "role": "AI / ML Engineer",
 
-  interests: [
-    "Full-Stack Development",
-    "Artificial Intelligence",
-    "Backend Engineering",
-    "Cyber / Security Projects",
-    "UI / UX"
-  ],
+    "interests": [
+        "Machine Learning",
+        "Computer Vision",
+        "Generative AI",
+        "Python",
+        "AI Applications"
+    ],
 
-  philosophy: "Build useful things and keep improving.",
+    "mindset": "Curious → Experiment → Build → Improve",
 
-  currentMode: "🚀 BUILDING"
-};
+    "mission": "Build intelligent systems that solve real problems."
+}
 
-🤝 LET'S CONNECT
+🌐 FIND ME ONLINE
 
 <p align="center">
   <a href="https://github.com/DevNijhawan">
@@ -270,10 +278,13 @@ const dev = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:7C3AED,100:00B7FF&height=130&section=footer" />
+  <i>“Don't just build models. Build things people can use.”</i>
 </p>
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b><br>
-  <sub>Let's build something awesome.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,45:00B7FF,100:7C3AED&height=130&section=footer" />
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
