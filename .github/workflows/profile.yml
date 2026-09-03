@@ -1,0 +1,50 @@
+name: Profile Metrics & Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    name: Generate GitHub activity metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: mjun0812/github-metrics@v5
+        with:
+          user: DevNijhawan
+          token: ${{ github.token }}
+          filename: metrics.svg
+          template: classic
+          config_timezone: Asia/Kolkata
+          base: header,activity,community,repositories
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_limit: 8
+          committer_branch: main
+          output_action: commit
+          output_condition: data-changed
+
+  snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: DevNijhawan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake assets
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
